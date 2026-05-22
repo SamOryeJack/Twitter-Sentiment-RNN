@@ -1,0 +1,6 @@
+tensorflow
+scikit-learn
+gensim>=4.3.3
+pandas
+numpy
+matplotlib

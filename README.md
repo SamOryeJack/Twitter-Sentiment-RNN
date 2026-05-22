@@ -17,8 +17,6 @@ Full 1.6M run. After the shared clean, 3,657 empty rows were dropped, leaving 1,
 | TF-IDF + Logistic Regression | 0.8059 | 0.7916 |
 | Word2Vec + Logistic Regression | 0.7738 | 0.7567 |
 
-![Model comparison](results/model_comparison.png)
-
 ## The headline: the ranking flipped with scale
 
 On a 160,000 tweet subset, the classical TF-IDF baseline won (0.7916) and the two recurrent networks were data starved (0.7875 and 0.7873). On the full 1.6 million tweets, both RNNs jumped about 3.8 points to 0.8252 while TF-IDF gained only about 1.5 points to 0.8059.

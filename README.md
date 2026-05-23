@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis: Four Models, One Controlled Comparison
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SamOryeJack/Twitter-Sentiment-RNN/blob/main/twitter_sentiment_analysis.ipynb)
+[![Open In Colab][(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SamOryeJack/Twitter-Sentiment-RNN/blob/main/twitter_sentiment_analysis.ipynb)](https://colab.research.google.com/drive/1o_WmsYZV1I568Od9nPdhBwYnHGdLoRne?usp=sharing)
 
 Binary sentiment classification on the Sentiment140 dataset (1.6 million tweets, positive vs negative). This project compares four models on identical data, an identical cleaning step, and an identical train/test split, so the accuracy differences reflect the models themselves and not differences in preprocessing.
 

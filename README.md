@@ -17,7 +17,7 @@ Full 1.6M run. After the shared clean, 3,657 empty rows were dropped, leaving 1,
 | TF-IDF + Logistic Regression | 0.8059 | 0.7916 |
 | Word2Vec + Logistic Regression | 0.7738 | 0.7567 |
 
-![Model comparison](RNN_Results.png)
+![Model comparison](results/RNN_Results.png)
 
 ## The headline: the ranking flipped with scale
 

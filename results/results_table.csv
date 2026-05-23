@@ -1,0 +1,5 @@
+Model,Test Accuracy
+GRU,0.8252
+LSTM,0.8252
+TF-IDF + LR,0.8059
+Word2Vec + LR,0.7738
